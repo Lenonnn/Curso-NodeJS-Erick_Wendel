@@ -1,0 +1,15 @@
+{
+  "name": "m2-aula1-for-forin",
+  "version": "1.0.0",
+  "description": "Consumir API usando AXIOS",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}

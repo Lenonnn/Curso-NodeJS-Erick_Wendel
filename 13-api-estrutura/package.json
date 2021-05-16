@@ -1,0 +1,22 @@
+{
+  "name": "modulo13-web_services_with_hapi.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w tests/*.test.js"
+  },
+  "author": "Lenon Dev",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "mongoose": "^5.3.11",
+    "nodemon": "^2.0.4",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.38.0"
+  }
+}
